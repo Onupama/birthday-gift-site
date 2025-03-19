@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background: linear-gradient(plum, #CC4B90);
+    background: linear-gradient(#dda0dd, #CC4B90);
     color: #ffffff;
 }
 
@@ -12,12 +12,12 @@ h1, h2, h3, h4, p {
 #bff-img {
     width: 150px;
     border-radius: 50%;
-    border: 6px solid purple;
+    border: 6px solid #800080;
     margin-bottom: 10px;
 }
 
 #bday-age {
-    background: purple;
+    background: #800080;
     padding: 5px 10px;
     border-radius: 5px;
     margin: 5px 0 10px 0;
@@ -25,7 +25,7 @@ h1, h2, h3, h4, p {
 
 #bday-date {
     margin: 0;
-    background: purple;
+    background: #800080;
     padding: 5px 10px;
     border-radius: 5px;
 }
